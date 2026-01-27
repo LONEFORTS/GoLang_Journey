@@ -1,7 +1,7 @@
 <h1>🏛️ GoLang_Journey<./h1>
 
 <div align="center">
-  <img src="assets/asset.png" alt="Silent" width="800" />
+  <img src="asset/asset.png" alt="Silent" width="800" />
   <p><em>“Learning Go with precision and strategy, one line at a time.”</em></p>
 </div>
 
